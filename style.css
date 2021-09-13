@@ -141,7 +141,7 @@ header {
 .maincentro {
     display: flex;
     height: 70vh;
-    width: 14vw;
+    width: 14.5vw;
     background-color: wheat;
     flex-direction: column;
     float: left;
@@ -157,7 +157,7 @@ header {
 .maindireita {
     display: flex;
     height: 70vh;
-    width: 14vw;
+    width: 14.5vw;
     background-color: wheat;
     flex-direction: column;
     float: right;
@@ -176,7 +176,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    height: 10vh;
+    height: 10.8vh;
     width: 97;
 }
 
@@ -199,7 +199,7 @@ footer a {
 .pgnoticia {
     display: flex;
     height: 70vh;
-    width: 58vw;
+    width: 59vw;
     background-color: darkslateblue;
     flex-direction: column;
 }
